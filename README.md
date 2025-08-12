@@ -3,13 +3,13 @@
 🌱 一名电气工程及其自动化专业的大学生  
 💻 喜欢折腾编程、自动化、博客搭建  
 📚 正在学习：JavaScript / TypeScript / Node.js / Python  
-🌏 博客：[https://你的博客地址](https://你的博客地址)
+🌏 博客：[https://www.shimoxi.qzz.io/]([https://你的博客地址](https://www.shimoxi.qzz.io/))
 
 ---
 
 ## 📊 GitHub 统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimoxi123&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimoxi123&layout=compact&theme=radical)
 
 ---
 
@@ -23,6 +23,6 @@
 ---
 
 ## 📫 联系我
-- GitHub：[你的用户名](https://github.com/你的用户名)
-- Email：[你的邮箱]
-- Blog：[你的博客地址](https://你的博客地址)
+- GitHub：[shimoxi123](https://github.com/shimoxi123)
+- Email：[boke@shimoxi.dpdns.org]
+- Blog：[https://www.shimoxi.qzz.io/]([https://你的博客地址](https://www.shimoxi.qzz.io/))
