@@ -2,7 +2,7 @@
 
 🌱 一名电气工程及其自动化专业的大学生  
 💻 喜欢折腾编程、自动化、博客搭建  
-📚 正在学习：JavaScript / TypeScript / Node.js / Python  
+📚 正在学习：单片机
 🌏 博客：[https://www.shimoxi.qzz.io/]([https://你的博客地址](https://www.shimoxi.qzz.io/))
 
 ---
